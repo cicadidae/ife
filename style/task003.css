@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+img{
+	width: 80px;
+	height: 80px;
+
+}
+main{
+	float: left;
+	background-color:#eee;
+	overflow: hidden;
+	margin:20px;
+	padding: 20px;
+}
+
+#left{
+	float: left;
+	width: 160px;
+	border: solid 1px;
+	padding: 20px;
+}
+
+#right{
+	float: right;
+	width: 80px;
+	border: solid 1px;
+	padding: 20px;
+}
+
+#content{
+	margin: 0 140px 0 220px;
+	border: solid 1px;
+	padding: 20px;
+}
+
